@@ -1,0 +1,6 @@
+print("Tuple")
+m=(3,5,2,1,7,8)
+print("the value of tuple is:",m)
+print("Now tuple and all its functions")
+print("1.count(), using the count function we will count the number of occurences of an element in the tuple")
+print()
